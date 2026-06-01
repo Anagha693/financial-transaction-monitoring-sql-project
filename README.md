@@ -87,6 +87,9 @@ financial-transaction-monitoring-sql-project/
 ├── data/
 │   └── cleaned_bank_transactions.csv
 │
+├── notebooks/
+│   └── financial_transaction_analysis.ipynb
+│
 ├── sql_queries/
 │   ├── 01_basic_analysis.sql
 │   └── 02_advanced_analysis.sql
