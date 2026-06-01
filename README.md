@@ -89,9 +89,7 @@ financial-transaction-monitoring-sql-project/
 │
 ├── sql_queries/
 │   ├── 01_basic_analysis.sql
-│   ├── 02_fraud_detection.sql
-│   ├── 03_window_functions.sql
-│   └── 04_advanced_analysis.sql
+│   └── 02_advanced_analysis.sql
 │
 ├── screenshots/
 │
